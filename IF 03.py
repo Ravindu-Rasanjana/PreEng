@@ -1,4 +1,8 @@
-#Pass or Fail?
+# Pass or Fail?
+
+print('================================================')
+print('Pass or Fail?')
+print('================================================')
 
 Marks = int(input('Enter marks : '))
 

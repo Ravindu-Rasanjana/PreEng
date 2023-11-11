@@ -1,4 +1,8 @@
-#Calculating the discount for the prices higher than 1000 v2.0
+# Calculating the discount for the prices higher than 1000 v2.0
+
+print('=============================================================')
+print('Calculating the discount for the prices higher than 1000 v2.0')
+print('=============================================================')
 
 price = float(input('Enter the price: '))
 

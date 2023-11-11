@@ -1,5 +1,9 @@
 # Odd or Even?
 
+print('================================================')
+print('Odd or Even?')
+print('================================================')
+
 num = int(input('Enter a Number : '))
 x = num % 2
 
@@ -8,5 +12,5 @@ if x % 2 == 1:
 else:
     print('This is an even number')
 
-#Ravindu Rasanjana Herath
-#E/23/147
+# Ravindu Rasanjana Herath
+# E/23/147

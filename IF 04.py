@@ -1,4 +1,8 @@
-#Guess My Number Game
+# Guess My Number Game
+
+print('================================================')
+print('Guess My Number Game')
+print('================================================')
 
 num = 4
 print('Guess My Number Game')
@@ -14,5 +18,5 @@ if 0 < gnum < 11:
 else:
     print('Invalid')
 
-#Ravindu Rasanjana Herath
-#E/23/147
+# Ravindu Rasanjana Herath
+# E/23/147

@@ -1,11 +1,15 @@
-#Calculating the discount for the prices higher than 1000
+# Calculating the discount for the prices higher than 1000
+
+print('========================================================')
+print('Calculating the discount for the prices higher than 1000')
+print('========================================================')
 
 price = float(input('Enter the price: '))
 
 if price >= 1000.00:
     discount = float(price)*0.05
-    print('Discount = ',discount);
-    print('Final price = ',price - discount);
+    print('Discount = ',discount)
+    print('Final price = ',price - discount)
 print('Thank you')
 
 #Ravindu Rasanjana Herath
